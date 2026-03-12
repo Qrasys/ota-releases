@@ -1,0 +1,8 @@
+﻿{
+    "version":  "0.0.2",
+    "checksum":  "be65e746b6b558f81ed3fa881cb466964d97b97e114e791cfa9eefc9e710cab0",
+    "minAppVersion":  "1.0.0",
+    "mandatory":  false,
+    "url":  "https://github.com/Qrasys/ota-releases/releases/download/ota-v0.0.2/ota-v0.0.2.zip",
+    "notes":  "OTA update 0.0.2"
+}
