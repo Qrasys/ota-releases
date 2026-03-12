@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.0.5",
-    "checksum":  "524de7450e5b9bcc20030a80b3d6e47134b32b8d3ddce3748db1e116f31f5da4",
+    "version":  "0.0.6",
+    "checksum":  "02ab499e56d6383182bba3d75faa06a6828e6f9a3bd16c1b10e7cb8c935f8a47",
     "minAppVersion":  "1.0.0",
     "mandatory":  false,
-    "url":  "https://github.com/Qrasys/ota-releases/releases/download/ota-v0.0.5/ota-v0.0.5.zip",
-    "notes":  "OTA update 0.0.5"
+    "url":  "https://github.com/Qrasys/ota-releases/releases/download/ota-v0.0.6/ota-v0.0.6.zip",
+    "notes":  "OTA update 0.0.6"
 }
