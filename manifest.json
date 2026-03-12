@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.0.13",
-    "checksum":  "36ac614298ac13c563b31f24747f80104dfc5e291ce5f9a73967abc60cc92940",
+    "version":  "0.0.14",
+    "checksum":  "f44c9b70ebdcadec23533dbf63ccb40ee15e32c40b84c76e7648b7c6df2ee547",
     "minAppVersion":  "1.0.0",
     "mandatory":  false,
-    "url":  "https://github.com/Qrasys/ota-releases/releases/download/ota-v0.0.13/ota-v0.0.13.zip",
-    "notes":  "OTA update 0.0.13"
+    "url":  "https://github.com/Qrasys/ota-releases/releases/download/ota-v0.0.14/ota-v0.0.14.zip",
+    "notes":  "OTA update 0.0.14"
 }
