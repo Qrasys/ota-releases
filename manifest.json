@@ -1,8 +1,8 @@
-﻿{
-    "version":  "0.0.33",
-    "checksum":  "9118281df0a5fe92575b7c972910aa989538d5c407133deab64b6575b0730272",
+{
+    "version":  "0.0.34",
+    "checksum":  "8aab12a623900d00c54a8f3ce313f2e049a1612f694380f9cc5374a9184fa014",
     "minAppVersion":  "1.0.0",
     "mandatory":  false,
-    "url":  "https://github.com/Qrasys/ota-releases/releases/download/ota-v0.0.33/ota-v0.0.33.zip",
-    "notes":  "OTA update 0.0.33"
+    "url":  "https://github.com/Qrasys/ota-releases/releases/download/ota-v0.0.34/ota-v0.0.34.zip",
+    "notes":  "OTA update 0.0.34 — Task Chat in mobile app"
 }
